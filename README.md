@@ -13,7 +13,7 @@ A second summary table is also contained within the same sheet the data is on, i
 3) The Greatest Total Volume made in the observed year. 
 4) All the ticker symbols associated with all of the above figures.
 
-To run the above steps using the VBA script, you can click on the black buttons which appear on the first worksheet when the excel file 'VBA-challenge' is opened. Please allow the VBA script to fully load before reviewing, this may take a couple of minutes. 
+Please allow the VBA script to fully load before reviewing, this may take a couple of minutes. 
 
 Results snippet for each year contained in the workbook (2018, 2019, 2020). 
 
