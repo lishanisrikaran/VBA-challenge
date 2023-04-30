@@ -35,6 +35,7 @@ Sub Stock_Market_Analysis():
       ws.Range("O3").Value = "Greatest % Decrease"
       ws.Range("O4").Value = "Greatest Total Volume"
 
+      ' Formats the above heading's interior and font to be clearly distinguishable from the raw data.   
       ws.Range("I1:L1,O1:O4,P1:Q1").Font.Color = RGB(255,255,255)
       ws.Range("I1:L1,O1:O4,P1:Q1").Interior.Color = RGB(0,0,0)
     
