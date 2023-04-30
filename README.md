@@ -1,5 +1,6 @@
 # VBA-challenge
 A VBA script which loops through the stocks across all years available and runs analysis on the data contained in the file.
+To access the VBA script, please click on the attached VBA-challenge Visual Studio Script file. 
 
 This VBA script will undertake the following tasks and outputs it within a summary table on the same sheet the data is contained within:
 1) Creates a distinct list of the ticker symbols contained in column one of each year's worksheet. 
